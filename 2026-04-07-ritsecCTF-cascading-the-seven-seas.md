@@ -1,4 +1,4 @@
-# Cascading the Seven Seas (500 pts)
+# Cascading the Seven Seas
 
 **Category:** Misc/Reversing
 **Author:** sy1vi3
